@@ -12,3 +12,5 @@ description: "My new website
 remote_theme: jekyll/minima
 
   
+
+theme: jekyll-theme-cayman
