@@ -9,4 +9,4 @@ author:
 description: "My new website"
 
 # Build Settings
-theme: jekyll-theme-cayman
+remote_theme: jekyll/cayman
