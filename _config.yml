@@ -10,3 +10,6 @@ description: "My new website"
 
 # Build Settings
 remote_theme: jekyll/minima
+
+minima:
+  skin: dark
