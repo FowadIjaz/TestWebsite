@@ -10,7 +10,3 @@ description: "My new website"
 
 # Build Settings
 remote_theme: jekyll/minima
-
-  
-
-theme: jekyll-theme-cayman
