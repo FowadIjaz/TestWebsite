@@ -1,3 +1,9 @@
+--- 
+layout: post
+title: My first post on Jekyll
+tags: first markdown example
+categories: demo 
+---
 
 # Fowad Ijaz, MBA
 ## Generating insights through data
